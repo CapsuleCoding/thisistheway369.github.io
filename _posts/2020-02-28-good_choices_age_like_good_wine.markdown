@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Good Choices Age Like Good Wine"
-date:       2020-02-28 11:14:19 +0000
+date:       2020-02-28 06:14:20 -0500
 permalink:  good_choices_age_like_good_wine
 ---
 
